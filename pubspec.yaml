@@ -65,6 +65,8 @@ flutter:
   #   - images/a_dot_ham.jpeg
       - assets/images/splash_screen_background.png
       - assets/images/HOME_DASHBOARD_PNG.png
+      - assets/images/verstappen_helmet.png
+      - assets/images/red_bull_pit.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
